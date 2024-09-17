@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://perfumes-today.pages.dev/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://perfumes-today.pages.dev/</loc>
+</url>
+<url>
+<loc>https://perfumes-today.pages.dev/ultimate-guide-to-making-your-perfume-last-all-day/</loc>
+<lastmod>2024-09-17T17:42:14+03:00</lastmod>
+<image:image>
+<image:loc>https://perfumes-today.pages.dev/media/posts/1/perfume-8497908_960_720.webp</image:loc>
+<image:title><![CDATA[Ultimate Guide to Making Your Perfume Last All Day]]></image:title>
+</image:image>
+</url>
+</urlset>

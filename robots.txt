@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://perfumes-today.pages.dev/sitemap.xml
